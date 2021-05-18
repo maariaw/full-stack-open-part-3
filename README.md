@@ -1,1 +1,1 @@
-[__BACKEND IN HEROKU__](https://lit-reaches-51232.herokuapp.com/info)
+[__APP IN HEROKU__](https://lit-reaches-51232.herokuapp.com/info)
