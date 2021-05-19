@@ -1,4 +1,4 @@
-DELETE http://localhost:3001/api/persons/2
+DELETE http://localhost:3001/api/persons/60a42e6d693c16a2a1c41755
 
 ###
 DELETE https://lit-reaches-51232.herokuapp.com/api/persons/2
