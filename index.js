@@ -15,29 +15,6 @@ app.use(morgan(
 
 morgan.token('body', function (req, res) {return JSON.stringify(req.body)})
 
-let persons = [
-    {
-    id: 1,
-    name: "Arto Hellas",
-    number: "040-123456"
-    },
-    {
-    id: 2,
-    name: "Ada Lovelace",
-    number: "34-65-678678678"
-    },
-    {
-    id: 3,
-    name: "Dan Abramov",
-    number: "12-43-234345"
-    },
-    {
-    id: 4,
-    name: "Mary Poppendieck",
-    number: "39-23-6423122"
-    }
-]
-
 app.get('/', (request, response) => {
     response.send('<h1>Hello World!</>')
 })
