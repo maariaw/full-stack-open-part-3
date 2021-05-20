@@ -1,1 +1,2 @@
-[__APP IN HEROKU__](https://lit-reaches-51232.herokuapp.com/info)
+
+[__TEST APP IN HEROKU__](https://lit-reaches-51232.herokuapp.com)
